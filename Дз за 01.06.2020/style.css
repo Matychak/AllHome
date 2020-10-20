@@ -1,0 +1,180 @@
+/*1*/
+	/*.content_box{
+		width: 300px;
+		height: 150px;
+		background-color: #FBF2E9;
+	}
+
+	.content_box h3{
+		margin-left: 70px;
+	}
+
+	.random_number{
+		width: 100px;
+		height: 50px;
+		
+		position: absolute;
+		left: 140px;	
+		font-size: 30px;
+	}
+	.btn_random{
+		position:  absolute;
+		top: 130px;
+		left: 60px;
+
+	}*/
+
+	/*2*/
+/*.conteiner{
+width: 100vw;
+height: 100vh;
+display: flex;
+position: absolute;
+top: -5px;
+left: -5px;
+justify-content: center;
+align-items: center;
+cursor: pointer;
+background-color: rgba(0,20,20,0.4);
+	}*/
+	/*3*/
+
+/*	.conteiner{
+		width: 350px;
+		height: 250px;
+		background-color: #FBF2E9;
+	}
+      .btn_click{
+    margin: 10px;
+    font-size: 16px; 	
+     }
+	.text_arena{	
+		padding: 10px;
+		
+	}*/
+
+	/*4*/
+
+/*	.wrapper{
+		border: 1px solid blue;
+		height: 175px;
+		width: 850px;
+	}
+
+	.textarena{
+		padding: 10px;
+          
+		width: 800px;
+
+	}
+	.textarena p{
+		margin-left: 90px;
+	}
+	.menu{
+		float: left;
+		height: 175px;
+		width: 65px;
+		background-color: #597BA0;
+	}
+    ul{
+    	position: relative;
+    	top: -18px;
+    	left: -30px;
+    	line-height: 50px;
+    	text-align: center;
+
+
+    }
+	li{
+		list-style-type:none; 
+		width: 62.5px;
+		height: 48px;
+		position: relative;
+		top: 1.5px;
+		left: -8.5px;
+		cursor: pointer;
+		
+
+		
+	}
+	li:hover{
+		background-color: #4873A1;
+
+	}
+	hr{
+		position: relative;
+		top: -176px;
+		left: 34px;
+
+	}
+	span{
+		display: none;
+			}
+.span_1{
+
+}
+	.span_2{
+		
+		margin-top: -170px;
+		
+	}
+	.span_3{
+		
+	margin-top: -160px;
+		
+	}*/
+/* 5 */
+/*.wrapper{
+	border: solid 1px black;
+	padding: 15px;
+	width: 902px;
+}
+.news_1,.news_2,.news_3{
+	width: 900px;
+}
+
+hr{
+	margin-left: -15px;	
+	width: 930px;
+}
+span{
+width: 900px;
+}	
+button{
+	float: right;
+	margin-top: -40px;
+}
+*/
+
+
+	/*(6)*/
+
+
+
+/*	button{
+		width: 200px;
+		margin-top: 10px;
+		position: relative;
+		left:  800px;
+		top: 200px;
+
+	}
+.progressbar{
+		width: 200px;
+	height: 25px;
+	border-radius: 5px;
+	position: relative;
+		top: 200px;
+		left: 799px;
+		border: 1px solid #ccc;
+}
+	.bgc{
+		width: 0px;
+		height: 0px;
+		position: absolute;
+		top: -1px;
+		left: 0px;
+		border:1px solid #008A8A;
+		border-radius: 5px;
+		
+	}*/

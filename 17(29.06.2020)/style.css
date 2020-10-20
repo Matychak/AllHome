@@ -1,0 +1,144 @@
+	.correct_inp{
+		position: relative;
+		left: 165px;
+		top: -39px;
+		background-color: #7C6E6E;
+	}
+
+	.correct_inp1{
+		position: relative;
+		left: 165px;
+		top: 5px;
+		background-color: #7C6E6E;
+	}
+	.correct_p1{
+	position: relative;
+	left: 90px;
+	top: 40px;
+		
+	}
+
+	.correct_p2{
+position: relative;
+top: -5px;
+left: 90px;
+		
+	}
+	.wrapper{
+		background-color:#59595A;
+		height: 130px;
+		width: 500px;
+	display: block;
+	}
+
+
+.sing_in{
+	color: black;
+	text-decoration: none;
+	position: relative;
+	left: 50px;
+}
+.div{
+	border-left:  3px solid black;
+	background-color: #59595A;
+	border-radius: 500px;
+	width: 40px;
+	height:40px;
+	position: relative;
+	left: 320px;
+	top: -86px;
+	font-size: 35px;
+}
+.arrow1{
+	position: relative;
+	left: 5px;
+	top: 2px;
+}
+
+
+
+/*2*/
+/**/
+.wrapper2{
+	background-color: #59595A;
+	width: 700px;
+	height: 200px;
+	display: none;
+}
+/**/
+input{
+	position: relative;
+	left: 260px;
+	top: -35px;
+}
+
+/*Correct p */
+p{
+	position: relative;
+top: 30px;
+	left: 190px;
+}
+.correct_p2_2{
+	position: relative;
+	top: -15px;
+}
+
+.correct_p3_2{
+	position: relative;
+	top: -55px;
+}
+
+.correct_p4_2{
+	position: relative;
+	top: -95px;
+}
+
+
+/*correct input*/
+input{
+	position: relative;
+	top: -7px;
+	background-color: #7C6E6E;
+}
+.correct_inp2_2{
+	position: relative;
+	top:-50px; 
+}
+
+.correct_inp3_2{
+	position: relative;
+	top:-90px; 
+}
+
+.correct_inp4_2{
+	position: relative;
+	top:-133px; 
+}
+
+/*Button a*/
+
+.sing_in_2{
+	position: relative;
+	top: -80px;
+	left: 140px;
+	text-decoration: none;
+	color: black;
+}
+
+/*Correct arrow*/
+.div_2{
+	border-left:  3px solid black;
+	background-color: #59595A;
+	border-radius: 500px;
+	width: 40px;
+	height:40px;
+	position: relative;
+	left: 420px;
+	top: -220px;
+	font-size: 35px;
+}
+.arrow{
+	position: relative;
+	left: 5px;
+	top: 2px;
+}

@@ -1,0 +1,164 @@
+/*1*/
+
+*{
+
+	font-family: 'Roboto', sans-serif;
+}
+/*
+#check_click{
+	position: relative;
+	top: -33.5px;
+	left: 94px;
+}
+
+/*a link */
+/*.a_link{
+	text-decoration: none;
+	
+}
+.btn_click{
+	margin-left: -25px;
+width: 178px;
+}*/
+
+/*2*/
+
+/*.second_cont{
+position: relative;
+top: -141.9px;
+left: 220px;
+}
+
+button{
+	position: relative;
+	top: -120px;
+	left: -1px;
+	width: 398px;
+}*/
+
+
+
+/*3*/
+/*.second{
+	position: relative;
+	top: -213px;
+	left: 220px;
+}
+
+.text_p{
+	position: relative;
+	top: 20px;
+}
+
+.radio_box input{
+	position: relative;
+	top: -14px;
+	left: 55px;
+}
+
+.radio_box span{
+	position: relative;
+	top: -15px;
+	left: 55px;
+}
+
+.pos_correction{
+	position: relative;
+	top: -15px;
+}
+
+.skills_box{
+position: relative;
+top: -210px;
+}
+
+.btn{
+	position: relative;
+	top: -200px;
+	width: 400px;
+}
+
+
+table{
+	border-collapse: collapse;
+
+}
+table td{
+border: 2px solid red;
+}
+
+.first_td span, .second_td span{
+	position: relative;
+top: -7px;
+}
+.first_td{
+
+	padding: 12px 45px 0px 20px;
+}
+.second_td{
+	padding: 12px 172px 0px 10px;
+	align-items: center;
+}*/
+
+/*4*/
+
+input{
+	position: relative;
+	top: -39px;
+	left: 110px;
+	width: 500px;
+}
+.p_cor1{
+	position: relative;
+	top: -35px;
+}
+
+.p_cor2{
+position: relative;
+top: -75px;
+}
+.inp_cor{
+position: relative;
+top: -70px;
+}
+
+.inp_wro{
+	position: relative;
+	top: -110px;
+}
+
+.conteiner{
+	position: relative;
+	
+}
+button{
+	position: relative;
+	top: -100px;
+	left: -5px;
+	width: 623px;
+}
+hr{
+width: 	700px;
+margin-top: 50px;
+margin-left: -80px;
+}
+/*corect position*/
+.qs{
+	text-decoration: underline;
+}
+.ca{
+	position: absolute;
+	top: 80px;
+	left: 0px;
+}
+
+.wa{
+	position: absolute;
+	top: 100px;
+	left: 0px;
+}
+.qs,.ca,.wa{
+	font-size: 20px;
+}
+
+

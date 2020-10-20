@@ -1,0 +1,101 @@
+	*{
+		font-family: 'Alata', sans-serif;
+	}
+	.profil{
+		width: 400px;
+		height: 350px;
+		border: 1px solid black;
+		background-color: #fff;
+	border-radius: 10px;
+	position: relative;	
+	margin: 0 auto;
+margin-top: -520px;
+
+	}
+
+		.profil h2{
+		position: absolute;
+		left: 25px;
+	}
+	hr{
+		margin-top: 50px;
+	}
+
+	.user_info{
+width: 300px;
+		height: 250px;
+		border: 1px solid black;
+	border-radius: 20px;
+	position: relative;
+
+	left: 50px;
+	}
+
+	.user_info p{
+
+		
+		position: relative;
+		left: 75px;
+		width: 200px;
+		height: 25px;
+		border: 1px solid black;
+		border-radius: 2px;
+	}
+/*Correct p*/
+	.name_2{
+		position: relative;
+
+		top: -5px;
+	}
+	.email_2{
+		position: relative;
+		top: -35px;
+	}
+	.login_2{
+		position: relative;
+		top: -60px;
+	}
+	.password_2{
+		position: relative;
+		top: -85px;
+	}
+
+	/*Correct icon*/
+
+	.name_i{
+		position: relative;
+		top: 35px;
+		left: 50px;
+	}
+
+	.email_i{
+		position: relative;
+		top: 4px;
+		left: 50px;
+	}
+
+	.user_i{
+		position: relative;
+		top: -20px;
+		left: 50px;
+	}
+
+	.password_i{
+		position: relative;
+		top: -45px;
+		left: 50px;
+	}
+	.span{
+		color: purple;
+		position: relative;
+		left: 40%;
+		top: 30px;
+	}
+	.close{
+		position: relative;
+		left: 382px;
+		top: 27px;
+        color: #808080;
+        cursor: pointer;
+
+	}

@@ -1,0 +1,215 @@
+
+/**/
+
+*{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+/**/
+
+h3{
+	color: white;
+}
+/*Setting text, bgc*/
+.text_arena_div{
+	display: none;
+	
+	
+	color: white;
+}
+.div_arena{
+	width: 999px;
+height: 320px;
+	padding: 50px;
+	background-color: #fff;
+
+}
+
+.p_text{
+	color: black;
+	padding: 7px;
+ position: absolute;
+    top: 50%;
+    left: 53%;
+    margin-right: -47%;
+    transform: translate(-50%, -50%)
+}
+
+
+
+.bg_color{
+
+	margin-top: -202px;
+	margin-left: -10px;
+	height: 959px;
+	width: 1920px;
+	background-color: rgba(0,0,0,0.8);
+	display: none;
+}
+/*Img*/
+
+.i_img_1{
+margin-left: -30px;
+}
+
+.i_img_2{
+margin-left: -30px;
+}
+
+.i_img_3{
+margin-left: -30px;
+}
+
+
+/*Icon for li*/
+
+body>div>ul>li>ul>li>i{
+	margin-left: -30px;
+padding-right: 20px;	
+}
+
+
+/*H3*/
+h3{
+	background-color: #AF2646;
+	width: 270px;
+	margin-left: -10px;
+	padding: 10px 10px 10px 40px;
+}
+
+h3 i{
+	display: block;
+	position: absolute;
+	
+
+}
+
+/*Hover icon*/
+.i1{
+	margin-top: 0px;
+}
+.i1,.i2,.i3:active{
+	transform: rotate(180deg);
+}
+.i1,.i2,.i3{
+
+	transform: rotate(180deg);
+}
+
+.i1:hover{
+color: #696969;
+	position: absolute;
+	margin-top: -20px;
+	display: block;
+	padding-left: 125px;
+transform: rotate(0deg);
+
+}
+
+.i2:hover{
+color: #696969;
+	position: absolute;
+	margin-top: -20px;
+
+	display: block;
+	padding-left: 106px;
+transform: rotate(0deg);
+}
+
+.i3:hover{
+color: #696969;
+	position: absolute;
+	margin-top: -20px;
+	display: block;
+	padding-left: 94px;
+transform: rotate(0deg);
+}
+/* ul / li */
+body>div>ul>li>ul>li{
+	margin-top: -15px;
+padding: 10px 10px 10px 50px;
+background-color: #5E252C;
+margin-left: -50px;
+height: 20px;
+}
+body>div>ul>li>ul>li>p{
+	margin-top: -30px;
+}
+body>div>ul>li>ul>li:hover{
+	transition: 0.6s;
+	margin-left: -35px;
+	width: 245px;
+}
+li{
+	margin-left: -38px;
+	margin-bottom:  18px;
+	width: 260px;
+}
+
+ul li {
+	list-style-type: none;
+}
+ul ul{
+	display: none;
+}
+
+li{
+	cursor: pointer;
+}
+/* a */
+.a{
+	margin-top: -30px;
+	background-color: red;
+	width: 20px;
+	height: 40px;
+margin-left: -70px;
+}
+
+
+/*Settings div*/
+
+.text_arena_div{
+	position: relative;
+	top: -255px;
+	left: 450px;
+	text-align: center;
+	width: 1000px;
+
+}
+
+/*Settimg bg-img*/
+im
+.img_lag, .img_not, .img_pri{
+	background-repeat: no-repeat;
+	position: absolute;
+
+
+}
+.img_lag{
+position: relative;
+margin: center;
+top: -50px;
+width: 400px;
+height: 420px;
+opacity: 0.2;
+
+}
+
+.img_not{
+position: relative;
+margin: center;
+top: -50px;
+width: 400px;
+height: 420px;
+opacity: 0.2;
+}
+
+.img_pri{
+position: relative;
+margin: center;
+opacity: 0.2;
+}
+
+
+
+

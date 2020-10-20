@@ -1,0 +1,23 @@
+/*Налаштування стилів таблиці і вмісту*/
+table{
+	position: relative;
+	margin: 0 auto;
+	margin-top: 120px;
+	border: 2px solid #a89832;
+	border-collapse: collapse;
+}
+
+.question_user{
+	
+	width: 450px;
+	padding: 18px;
+	border: 2px solid #3271a8;
+}
+.user_answer{
+	border: 2px solid #3271a8; 
+padding: 10px;
+}
+img{
+	width: 100px;
+	padding-left: 55px;
+}
